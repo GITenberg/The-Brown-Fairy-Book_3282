@@ -1,0 +1,39 @@
+_repo: The-Brown-Fairy-Book_3282
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+description: ''
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '2002-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3282'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Fairy tales'
+- GITenberg
+tableOfContents: What the Rose did to the Cypress -- Ball-Carrier and the Bad One
+  -- How Ball-Carrier finished his Task -- The Bunyip -- Father Grumbler -- The Story
+  of the Yara -- The Cunning Hare -- The Turtle and his Bride -- How Geirald the Coward
+  was Punished -- Habogi -- How the Little Brother set Free his Big Brothers -- The
+  Sacred Milk of Koumongoe -- The Wicked Wolverine -- The Husband of the Rat's Daughter
+  -- The Mermaid and the Boy -- Pivi and Kabo -- The Elf Maiden -- How Some Wild Animals
+  became Tame Ones -- Fortune and the Wood-Cutter -- The Enchanted Head -- The Sister
+  of the Sun -- The Prince and the Three Fates -- The Fox and the Lapp -- Kisa the
+  Cat -- The Lion and the Cat -- Which was the Foolishest? -- Asmund and Signy --
+  Rubezahl -- Story of the King who would be Stronger then Fate -- Story of Wali Dad
+  the Simple-hearted -- Tale of a Tortoise and of a Mischievous Monkey -- The Knights
+  of the Fish.
+title: The Brown Fairy Book
+url: http://www.gutenberg.org/ebooks/3282
